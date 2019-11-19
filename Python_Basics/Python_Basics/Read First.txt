@@ -1,0 +1,7 @@
+Reading Sequence:
+
+1.  basics
+2.  NumPy
+3.  MatplotLib
+4.  Pandas
+5.  project
